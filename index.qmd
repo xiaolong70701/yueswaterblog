@@ -1,0 +1,44 @@
+---
+title: "Home"
+image: images/avatar.svg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/anthonysung/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/yueswater/
+    - icon: github
+      text: Github
+      href: https://github.com/xiaolong70701
+    - icon: file-earmark-person
+      text: Resume
+      href: anthony_cv.pdf
+comments: false
+---
+
+```{=html}
+
+<script src="js/text_obs.js"></script>
+<script src="js/text_obs_achiev.js"></script>
+<script src="js/text.js"></script>
+<script src="js/background.js"></script>
+<script src="js/slider.js"></script>
+<script src="js/pagination.js"></script>
+```
+
+<div class="section_white" style="display: flex;
+        align-items: center;
+        justify-content: center;">
+<h1>Let's explore
+  <span
+     class="txt-rotate"
+     data-period="2000"
+     data-rotate='["economics ", "political science ", "maths ", "coding ", "life "]'></span>
+     with me!
+</h1>
+
+
+

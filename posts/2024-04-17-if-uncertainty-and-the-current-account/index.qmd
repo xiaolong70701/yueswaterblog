@@ -1,0 +1,14 @@
+---
+title: "不確定性與經常帳"
+image: macro preview.png
+lang: en
+description: |
+    
+date: "2024-04-17"
+draft: FALSE
+citation:
+  url: https://yueswater-blog.netlify.app/posts/2024-04-17-if-uncertainty-and-the-current-account/
+categories: [international finance]
+---
+
+哈囉
