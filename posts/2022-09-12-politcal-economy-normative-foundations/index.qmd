@@ -226,11 +226,13 @@ $$
 ### 與盟友(Allies)貿易之條件
 
 現在考慮與盟友的自由貿易情況，
-|           |             | State $j$   |                  |
-|-----------|-------------|-------------|------------------|
-|           |             | Cooperation | Defection        |
-| **State** $i$ | Cooperation | $(F_i+c_{i,j} F_j, F_j+c_{j ,i} F_i)$     | $(D_i+c_{i ,i} B_i, B_i+c_{i, j} D_i)$          |
-|           | Defection   | $(B_i+c_{i ,j} D_j, D_j+c_{j ,i} B_i)$     | $(P_i+c_{i, j} P_i, P_i+c_{i ,i} P_i)$ | 
+
+|             |             | State $j$   |                  |
+|-------------|-------------|-------------|------------------|
+|             |             | Cooperation | Defection        |
+| **State $i$** | Cooperation | $(F_i + c_{i,j} F_j, F_j + c_{j,i} F_i)$     | $(D_i + c_{i,i} B_i, B_i + c_{i,j} D_i)$          |
+|             | Defection   | $(B_i + c_{i,j} D_j, D_j + c_{j,i} B_i)$     | $(P_i + c_{i,j} P_i, P_i + c_{i,i} P_i)$ |
+
 
 同樣可以得到自由貿易的條件為
 $$
